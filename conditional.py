@@ -1,4 +1,4 @@
-# conditional statement in python 
+'''# conditional statement in python 
 
 name= input("What's your name please? ")
 age = int(input("What's your age please? "))
@@ -94,6 +94,6 @@ print("Please insert your atm card:")
 input()
 print("Card inserted!!")
 required_amt = int(input("Please enter a amount:"))
-read_card()
+read_card()'''
 
 
